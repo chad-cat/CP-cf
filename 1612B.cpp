@@ -7,7 +7,7 @@ int main() {
     while (t--) {
         int n,a,b; 
         cin >> n>>a>>b;
-        if(a<=n/2&&b>n/2){
+        if(a<=n/2& &b>n/2){
             cout<<a<<" ";
             for(int i=n/2+1;i<=n;i++){
                 if(i!= b) cout<<i<<" ";
