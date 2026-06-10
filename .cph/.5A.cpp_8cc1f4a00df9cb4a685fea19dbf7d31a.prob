@@ -1,0 +1,1 @@
+{"name":"Local: 5A","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\5A.cpp","tests":[{"id":1766333160854,"input":"+Mike\nMike:hello\n+Kate\n+Dmitry\n-Dmitry\nKate:hi\n-Kate\n","output":"9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\5A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 2093B","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2093B.cpp","tests":[{"id":1755191095349,"input":"4\n666\n13700\n102030\n7\n","output":"2\n4\n3\n0\n"},{"id":1755233945164,"input":"1\n955","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2093B.cpp","group":"local","local":true}

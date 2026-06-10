@@ -1,0 +1,1 @@
+{"name":"Local: 2038j","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2038j.cpp","tests":[{"id":1754228002650,"input":"10\nP 2\nP 5\nB 8\nP 14\nB 5\nB 9\nB 3\nP 2\nB 1\nB 2\n","output":"YES\nNO\nNO\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2038j.cpp","group":"local","local":true}

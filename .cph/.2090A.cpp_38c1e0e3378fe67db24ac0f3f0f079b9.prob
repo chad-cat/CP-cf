@@ -1,0 +1,1 @@
+{"name":"Local: 2090A","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2090A.cpp","tests":[{"id":1753434736537,"input":"3\n1 2 4\n2 1 4\n2 2 1\n","output":"YES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2090A.cpp","group":"local","local":true}

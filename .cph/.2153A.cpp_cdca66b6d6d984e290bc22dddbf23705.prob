@@ -1,0 +1,1 @@
+{"name":"Local: 2153A","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2153A.cpp","tests":[{"id":1764237689204,"input":"3\n4\n2 2 2 2\n5\n1 4 5 1 2\n6\n5 4 2 1 2 3\n","output":"1\n4\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2153A.cpp","group":"local","local":true}

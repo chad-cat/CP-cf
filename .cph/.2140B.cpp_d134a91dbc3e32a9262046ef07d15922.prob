@@ -1,0 +1,1 @@
+{"name":"Local: 2140B","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2140B.cpp","tests":[{"id":1768393811962,"input":"6\n8\n42\n1000\n66666\n106344\n9876543\n","output":"1\n12\n998\n7872\n8190\n174036\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\2140B.cpp","group":"local","local":true}

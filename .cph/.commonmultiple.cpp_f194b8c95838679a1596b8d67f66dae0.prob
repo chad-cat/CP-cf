@@ -1,0 +1,1 @@
+{"name":"Local: commonmultiple","url":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\commonmultiple.cpp","tests":[{"id":1751056297179,"input":"3\n3\n1 2 3\n5\n3 1 4 1 5\n1\n1\n","output":"3\n4\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\cpprac\\commonmultiple.cpp","group":"local","local":true}
