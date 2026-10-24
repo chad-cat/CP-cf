@@ -1,0 +1,1 @@
+{"name":"Local: 2247A","url":"c:\\Users\\mayan\\Downloads\\ragecp\\ragecp\\2247A.cpp","tests":[{"id":1784387269747,"input":"5\n1\n-1\n2\n1 -1\n2\n1 1\n5\n1 -1 1 -1 1\n6\n-1 1 -1 -1 -1 -1\n","output":"NO\nYES\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\ragecp\\2247A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 2261c","url":"c:\\Users\\mayan\\Downloads\\ragecp\\ragecp\\2261c.cpp","tests":[{"id":1792250455000,"input":"3\n1\n7\n2\n2 3\n6\n1000000 999999 5 4 3 2\n","output":"Moggity\nLarpity\nMoggity\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Downloads\\ragecp\\ragecp\\2261c.cpp","group":"local","local":true}

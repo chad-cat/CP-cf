@@ -1,2 +1,4 @@
-#define prsn(n)     fixed << setprecision(n)
-// #define input(v)    f(i, sz(v)) cin >> v[i]
+#include <iostream>
+int main() {
+    std::cout << "Hello\n";
+}

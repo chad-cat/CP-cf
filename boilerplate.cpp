@@ -11,6 +11,8 @@
 #include <chrono>
 #include <random>
 #include <climits>
+#include <unordered_map>
+#include<iomanip>
 
 // For including everything (though it can increase compile time)
 // #include <bits/stdc++.h>
